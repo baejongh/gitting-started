@@ -3,35 +3,35 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> Jong Hoon Bae
+> Jong Hoon Bae __
 > Mujtaba Aslam
 
 What do you prefer to be called?
-> Jong Hoon
+> Jong Hoon __
 > Mujtaba
 
 What are your GitHub usernames?
-> Jong Hoon: baejongh
+> Jong Hoon: baejongh __
 > Mujtaba: mujtabaaslam
 
 Why are you taking this course?
-> Jong Hoon: To have a better understanding of operating systems
+> Jong Hoon: To have a better understanding of operating systems __
 > Mujtaba: To learn how operating systems work
 
 Do you have any concerns about this course?
-> Jong Hoon: I have not coded in C in a very long time.
+> Jong Hoon: I have not coded in C in a very long time. __
 > Mujtaba: No.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> Jong Hoon: Multiprocessor Scheduling
+> Jong Hoon: Multiprocessor Scheduling __
 > Mujtaba: Memory Allocation, Multiprocessor Scheduling
 
 Do you have any questions about the course?
-> Jong Hoon: How much of an operating system will I be able to make after the end of the class?
+> Jong Hoon: How much of an operating system will I be able to make after the end of the class? __
 > Mujtaba: No.
 
 Do you have any other questions for me?
-> Jong Hoon: How was your break?
+> Jong Hoon: How was your break? __
 > Mujtaba: No.
 
 ## About this course
