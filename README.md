@@ -3,28 +3,28 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Jong Hoon Bae
 
 What do you prefer to be called?
-> ...
+> Jong Hoon
 
 What are your GitHub usernames?
-> ...
+> Jong Hoon: baejongh
 
 Why are you taking this course?
-> ...
+> Jong Hoon: To have a better understanding of operating systems
 
 Do you have any concerns about this course?
-> ...
+> Jong Hoon: I have not coded in C in a very long time.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> Jong Hoon: Multiprocessor Scheduling
 
 Do you have any questions about the course?
-> ...
+> Jong Hoon: How much of an operating system will I be able to make after the end of the class?
 
 Do you have any other questions for me?
-> ...
+> Jong Hoon: How was your break?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
